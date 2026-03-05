@@ -1,8 +1,8 @@
 # 🌟 Welcome to Khadija's Cybersecurity & Policy Hub! 👋
 
-Hi there! I'm **Khadija**, a cybersecurity researcher and policy strategist specializing in **Cloud Security, Cyber Threat Intelligence, AI Governance, and Risk Management**. This space is where I showcase my research, share projects, and contribute to the cybersecurity community.
+Hi there! I'm **Khadija**, a cybersecurity graduate student and policy strategist specializing in ** Cyber Threat Intelligence, AI Governance, and Risk Management**. This space is where I showcase my research, share projects, and contribute to the cybersecurity community.
 
-Whether you're here to explore my research on cloud AI security, dive into threat intelligence frameworks, or learn about the intersection of cybersecurity and policy — I hope you find value and inspiration. Let's connect and grow together in building a safer digital world!
+Whether you're here to explore my research on cloud AI security, dive into threat intelligence frameworks, or learn about the intersection of cybersecurity and policy, I hope you find value and inspiration. Let's connect and grow together in building a safer digital world!
 
 ---
 
@@ -37,7 +37,7 @@ Whether you're here to explore my research on cloud AI security, dive into threa
 ## Featured Projects
 
 ### 🗺️ BlastMap
-An identity-centric threat mapping framework for cloud AI infrastructure — mapping MITRE ATLAS attack tactics to machine identity over-privilege in AWS environments. Includes cost-of-breach analysis, live attack simulation tables, and compliance mapping to NIST 800-53, SOC 2, and EU AI Act.
+An identity-centric threat mapping framework for cloud AI infrastructure — mapping MITRE ATLAS attack tactics to machine identity over-privilege in AWS environments. Includes cost-of-breach analysis, live attack simulation tables, and compliance mapping to NIST 800-53 and EU AI Act.
 
 ### 🔐 BreachGuard
 A Password Breach Aggregator integrating Have I Been Pwned API and CISA KEV data, featuring breach visualizations and ROI analysis for organizational security investments.
@@ -45,8 +45,6 @@ A Password Breach Aggregator integrating Have I Been Pwned API and CISA KEV data
 ### ⚡ Quantum Computing & Cybersecurity
 Research on risk-based implications of quantum computing on cybersecurity, covering NIST post-quantum standards (FIPS 203/204/205) and harvest-now-decrypt-later threats.
 
-### 🏥 Change Healthcare Ransomware Analysis
-Comprehensive threat intelligence report using MITRE ATT&CK and risk anatomy frameworks, with executive-level presentation and remediation strategies.
 
 ---
 
@@ -70,7 +68,7 @@ Comprehensive threat intelligence report using MITRE ATT&CK and risk anatomy fra
 
 ## Frameworks & Methodologies
 
-`MITRE ATT&CK` · `MITRE ATLAS` · `NIST 800-53` · `NIST CSF` · `SOC 2` · `NICE Framework` · `EU AI Act` · `GDPR` · `Cigital RMF` · `Risk Anatomy`
+`MITRE ATT&CK` · `MITRE ATLAS` · `NIST 800-53` · `NIST CSF` · `NICE Framework` · `EU AI Act` · `GDPR` · `Cigital RMF` · `Risk Anatomy`
 
 ---
 
