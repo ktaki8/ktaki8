@@ -1,4 +1,4 @@
-# 🌟 Welcome to Khadija's Cybersecurity & Policy Hub! 👋
+#  Welcome to Khadija's Cybersecurity & Policy Hub! 
 
 Hi there! I'm **Khadija**, a cybersecurity graduate student and policy strategist specializing in ** Cyber Threat Intelligence, AI Governance, and Risk Management**. This space is where I showcase my research, share projects, and contribute to the cybersecurity community.
 
